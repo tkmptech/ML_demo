@@ -1,3 +1,4 @@
+git+git://github.com/gatagat/lap.git
 opencv-python-headless
 ultralytics
 streamlit
